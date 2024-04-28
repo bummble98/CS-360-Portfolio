@@ -1,1 +1,4 @@
 # CS-360-Portfolio
+
+We were tasked with designing an app that would be used to help a user keep track of their weightloss. Specifically, we needed to design an app that could function with a database and save data to the users phone. I tried to keep the data on screen relevant to the user. Theres a main screen with the users data, a screen to add a weight, and a weight delete screen. All these together encompassed everything the user would need. 
+I started out simply jumping into coding, which I feel contributed alot to the technical debt I had to deal with later, I feel this was a definite learning experience in the importance of proper mvc model design. I tested my code mostly with the debug features of android studio, this was really enlightening on why a lot of the code wasnt working. I feel I was best in my ability to overcome my inexperience in coding by trying multiple unconventional methods to get a feature to work.
